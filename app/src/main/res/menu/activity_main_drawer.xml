@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_lateset"
+        android:icon="@drawable/home"
+        android:title="Latest" />
+    <item
+        android:id="@+id/nav_cate"
+        android:icon="@drawable/category"
+        android:title="Category" />
+    <item
+        android:id="@+id/nav_gifs"
+        android:icon="@drawable/gifs"
+        android:title="GIFs" />
+    <item
+        android:id="@+id/nav_favorite"
+        android:icon="@drawable/myfavoite"
+        android:title="My Favorites" />
+    <item
+        android:id="@+id/nav_rate_app"
+        android:icon="@drawable/rateapp"
+        android:title="Rate App" />
+    <item
+        android:id="@+id/nav_more_app"
+        android:icon="@drawable/moreapp"
+        android:title="More App"
+        />
+    <item
+        android:id="@+id/nav_aboutus"
+        android:icon="@drawable/aboutus"
+        android:title="About Us" />
+    <item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/setting"
+        android:title="Setting" />
+    <item
+        android:id="@+id/nav_police"
+        android:icon="@drawable/police"
+        android:title="Privacy Police" />
+
+</menu>
